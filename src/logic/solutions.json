@@ -1,0 +1,735 @@
+[
+    {
+        "question": "What characteristic best describes a touch screen?",
+        "answer": "an input device that recognizes touch and pressure as instructions"
+    },
+    {
+        "question": "What characteristic best describes a projector?",
+        "answer": "an output device used to present information from a laptop onto a screen"
+    },
+    {
+        "question": "What characteristic best describes a stylus?",
+        "answer": "a pen-like tool that allows input by touching the surface of the screen"
+    },
+    {
+        "question": "What characteristic best describes an AR headset?",
+        "answer": "a head-mounted device that superimposes images and audio over a real world image and can provide users immediate access to information about their real surroundings"
+    },
+    {
+        "question": "What characteristic best describes a signature pad?",
+        "answer": "an input device that provides verification of package delivery by digitizing a written name"
+    },
+    {
+        "question": "What characteristic best describes a magstripe reader?",
+        "answer": "an input device that reads encoded information from the back of plastic cards"
+    },
+    {
+        "question": "What characteristic best describes a barcode scanner?",
+        "answer": "an input device that reads barcodes affixed to most retail products"
+    },
+    {
+        "question": "What characteristic best describes a keyboard?",
+        "answer": "the first type of input device used for creating documents and emails"
+    },
+    {
+        "question": "What characteristic best describes an NFC device?",
+        "answer": "an input device allowing users to pay for a product by tapping their credit card or smartphone on another device"
+    },
+    {
+        "question": "What characteristic best describes a mouse?",
+        "answer": "the first type of input device used to navigate the graphical user interface"
+    },
+    {
+        "question": "A technician is building a thick client workstation that would be used to run a database and wants to ensure the best protection against errors. What type of memory would be best suited for this?",
+        "answer": "ECC"
+    },
+    {
+        "question": "A user has just upgraded a gaming system with 8GB of DDR3 800 MHz RAM and still finds that the system lags during gameplay. The system has a high end graphics card, liquid cooling, and a 7,200 rpm EIDE drive. What can the user do to improve system performance?",
+        "answer": "Replace the EIDE drive with an SSD."
+    },
+    {
+        "question": "A network administrator would like to use one keyboard, mouse, and display to monitor and control multiple servers in the server room. Which device should the administrator purchase to accomplish this?",
+        "answer": "KVM switch"
+    },
+    {
+        "question": "A user wants to purchase a monitor that will be light, consume the least amount of power, and provide deep dark levels in the display. Which display type would best meet these requirements?",
+        "answer": "OLED"
+    },
+    {
+        "question": "An art appreciation college professor wants to apply for a technology grant to allow students to have a virtual tour of the Louvre Museum in Paris, France. Which mobile technology should the professor request to accomplish this goal?",
+        "answer": "VR headset"
+    },
+    {
+        "question": "Which connector would be used for a laptop external hard drive?",
+        "answer": "eSATA"
+    },
+    {
+        "question": "Which three PC desktop functions are typically provided on the front panel and must be connected to the motherboard? (Choose three.)",
+        "answer": [
+            "PC power button",
+            "drive activity light",
+            "USB connectors"
+        ]
+    },
+    {
+        "question": "Which statement is correct about applying firmware updates?",
+        "answer": "Firmware updates are sometimes irreversible"
+    },
+    {
+        "question": "Which RAID level allows for extension of a dynamic volume without any redundancy?",
+        "answer": "0"
+    },
+    {
+        "question": "A computer technician has recommended a data storage system that combines data striping and parity. The user has a limited budget and is prepared to forego performance to implement this system. Which RAID system would meet these requirements?",
+        "answer": "RAID 5"
+    },
+    {
+        "question": "A user has a computer with a single hard drive and a RAID adapter installed. Which additional component is necessary to complete the RAID installation?",
+        "answer": "one or more additional hard drives"
+    },
+    {
+        "question": "A user is connecting a home entertainment system and wants to use one cable to carry all the digital video and audio signals from the source device to the LCD TV. What type of cable should the user use?",
+        "answer": "HDMI"
+    },
+    {
+        "question": "A user has connected a USB 3.0 device to a computer using a 3 ft (1m) USB 3.0 cable. However, instead of an expected data transfer rate of up to 5 Gb/s, the user notes a data transfer rate of no more than 450 Mb/s. What is the most probable reason for this lower than expected data transfer rate?",
+        "answer": "The device was connected to a USB 2.0 port on the computer."
+    },
+    {
+        "question": "What transfers heat away from the processor first?",
+        "answer": "thermal compound"
+    },
+    {
+        "question": "Which design specification criterion is most important when designing a computer that will be a thin client whose applications are accessed from a remote virtual server?",
+        "answer": "speed of network card"
+    },
+    {
+        "question": "A technician is building a workstation that will be used for virtualization. Which two components would the technician use? (Choose two.)",
+        "answer": [
+            "maximum amount of RAM",
+            "multicore processors"
+        ]
+    },
+    {
+        "question": "A small company is setting up a new remote satellite office. Employees in the remote office need to access network resources from the main office of the company. An IT manager is deciding whether to deploy thin or thick clients at the remote office. What is the key technical factor to be considered?",
+        "answer": "internet connection bandwidth between the main and remote office"
+    },
+    {
+        "question": "Which three components would a technician use in building a CAD workstation? (Choose three.)",
+        "answer": [
+            "SSD",
+            "maximum RAM",
+            "specialized graphics card"
+        ]
+    },
+    {
+        "question": "A customer asks for a solution to a printer problem that is beyond the knowledge level of the technician. What should the technician do?",
+        "answer": "Gather as much informatio​n as possible and escalate the problem."
+    },
+    {
+        "question": "After consulting the manufacturer manuals, a technician applies a series of recommended solutions that resolve a problem with a workstation computer. What is the next step in the troubleshooting process that the technician should perform?",
+        "answer": "Verify the solution and confirm full system functionality."
+    },
+    {
+        "question": "After questioning a user about the problems being experienced with a PC operating system, the support technician suspects that a recent service pack installation has failed. Which step of the troubleshooting process has the technician just concluded?",
+        "answer": "Establish a theory of probable cause."
+    },
+    {
+        "question": "A computer locks up frequently, and no error message can be seen on screen. The problem occurs every time the user attempts to restart the computer. What is the most likely reason for this problem?",
+        "answer": "The CPU is overheating."
+    },
+    {
+        "question": "A technician suspects that a power supply is faulty. How can it be checked?",
+        "answer": "by using a multimeter"
+    },
+    {
+        "question": "What are two possible causes of a computer running slowly? (Choose two.)",
+        "answer": [
+            "The computer is overheating.",
+            "Not enough RAM is installed in the system."
+        ]
+    },
+    {
+        "question": "Which type of network consists of several geographically dispersed networks that cover a large area?",
+        "answer": "WAN"
+    },
+    {
+        "question": "A user is setting up a home wireless network. Which type of device must the user have in order to establish the wireless network and provide access to the internet for multiple home devices?",
+        "answer": "wireless router"
+    },
+    {
+        "question": "A customer who travels frequently wants to know which technology is the most suitable for being connected to the corporate network at all times at low cost. Which network technology would a network administrator recommend?",
+        "answer": "cellular"
+    },
+    {
+        "question": "Which device converts digital signals to analog signals and vice versa?",
+        "answer": "modem"
+    },
+    {
+        "question": "A tourist is traveling through the countryside and needs to connect to the internet from a laptop. However, the laptop only has Wi-Fi and Ethernet connections. The tourist has a smartphone with 3G/4G connectivity. What can the tourist do to allow the laptop to connect to the internet?",
+        "answer": "Enable tethering and create a hotspot."
+    },
+    {
+        "question": "Which protocol automates assignment of IP addresses on a network, and which port number does it use? (Choose two.)",
+        "answer": [
+            "DHCP",
+            "67"
+        ]
+    },
+    {
+        "question": "A technician wants to use Remote Desktop to configure another PC. Which firewall port on the remote PC should be open in order for Remote Desktop to work?",
+        "answer": "3389"
+    },
+    {
+        "question": "A network administrator is setting up the wireless network in a small office. The administrator wants to choose a wireless protocol standard that takes advantage of 5 GHz throughput but is also compatible with a few existing devices that operate at 2.4 GHz. Which wireless standard should the administrator deploy?",
+        "answer": "802.11n"
+    },
+    {
+        "question": "A network administrator is setting up a device for two objectives. The first objective is to store frequently visited web content on the device so that the local users can access the content quickly. Another objective is to achieve a certain level of network security by hiding the internal IP addresses. Which device should the administrator set up?",
+        "answer": "proxy server"
+    },
+    {
+        "question": "A small company is setting up a web server to promote products on the internet. The company network administrator is searching for an online service that can provide the domain name and name resolution services. Which type of online service can provide such functions to the company?",
+        "answer": "DNS service"
+    },
+    {
+        "question": "Which networking device transmits data to all ports regardless of the destination address?",
+        "answer": "hub"
+    },
+    {
+        "question": "Which device will prevent data from flooding out of every port with the exception of broadcast traffic and traffic to unknown destination addresses?",
+        "answer": "switch"
+    },
+    {
+        "question": "What are plenum rated cables used for?",
+        "answer": "for cables that are installed inside the floors and ceilings of buildings"
+    },
+    {
+        "question": "Which tool is more commonly used to check the wire mapping on a Category 5e UTP cable once it is terminated on both ends?",
+        "answer": "cable tester"
+    },
+    {
+        "question": "A technician is troubleshooting a PC unable to connect to the network. What command should be issued to check the IP address of the device?",
+        "answer": "ipconfig"
+    },
+    {
+        "question": "Which feature will assign a computer an IP address even if there is no working DHCP server in the network?",
+        "answer": "APIPA"
+    },
+    {
+        "question": "When a wireless network in a small office is being set up, which type of IP addressing is typically used on the networked devices?",
+        "answer": "private"
+    },
+    {
+        "question": "In setting up a small office network, the network administrator decides to assign private IP addresses dynamically to workstations and mobile devices. Which feature must be enabled on the company router in order for office devices to access the internet?",
+        "answer": "NAT"
+    },
+    {
+        "question": "A company is deploying a wireless network in the distribution facility in a Boston suburb. The warehouse is quite large and it requires multiple access points to be used. Because some of the company devices still operate at 2.4GHz, the network administrator decides to deploy the 802.11g standard. Which channel assignments on the multiple access points will make sure that the wireless channels are not overlapping?",
+        "answer": "channels 1, 6, and 11"
+    },
+    {
+        "question": "A support desk technician is asking a customer a series of questions about a problem connecting to the network. Which step of the troubleshooting process is the technician applying?",
+        "answer": "Identify the problem."
+    },
+    {
+        "question": "What is a result when the DHCP servers are not operational in a network?",
+        "answer": "Workstations are assigned with IP addresses in the 169.254.0.0/16 network."
+    },
+    {
+        "question": "A user complains to a technician that none of the apps that use a GPS are working properly. What should the technician do first if the GPS function is suspect?",
+        "answer": "Ensure the Location setting is enabled."
+    },
+    {
+        "question": "A teenager has asked the grandparents for a specific type of mobile technology. The grandparents do not remember the specific name of the device, but remember that the teenager wants to receive a cell phone call on it. Which technology is likely to be the one the teenager wants?",
+        "answer": "smart watch"
+    },
+    {
+        "question": "What are the two widths of internal hard drives in laptops? (Choose two.)",
+        "answer": [
+            "1.8 inches",
+            "2.5 inches"
+        ]
+    },
+    {
+        "question": "Where is the integrated Wi-Fi antenna typically located in a laptop?",
+        "answer": "above the screen"
+    },
+    {
+        "question": "Because of limited space on a laptop keyboard, some keys have a dual-purpose. What are these keys called?",
+        "answer": "function keys"
+    },
+    {
+        "question": "On a laptop keyboard, which three functions can typically be accessed through the use of special function keys? (Choose three.)",
+        "answer": [
+            "volume settings",
+            "wireless functionality",
+            "display brightness"
+        ]
+    },
+    {
+        "question": "Which three components can a docking station make available to a laptop that a port replicator does not? (Choose three.)",
+        "answer": [
+            "additional hard drive",
+            "additional optical drive",
+            "PCI cards"
+        ]
+    },
+    {
+        "question": "Which laptop component is required to be replaced or upgraded by a technician rather than by a computer user?",
+        "answer": "inverter"
+    },
+    {
+        "question": "For mobile devices, what are two advantages of using flash memory storage technology that is the equivalent of solid state drives? (Choose two.)",
+        "answer": [
+            "light weight components",
+            "power efficiency"
+        ]
+    },
+    {
+        "question": "A teenager is using a remote control unit to control a TV set. Which wireless technology is most likely being used?",
+        "answer": "IR"
+    },
+    {
+        "question": "Which two mobile device components are field replaceable? (Choose two.)",
+        "answer": [
+            "SIM card",
+            "battery"
+        ]
+    },
+    {
+        "question": "Which two methods are used to directly connect mobile devices such as tablets and smartphones to a data network? (Choose two.)",
+        "answer": [
+            "cellular communications",
+            "Wi-Fi"
+        ]
+    },
+    {
+        "question": "A computer technician has successfully returned a laptop to full operation and verified system functionality. Actions the technician performed included modifying the registry and applying patches to the operating systems. What is the next step in the troubleshooting process that the technician should do?",
+        "answer": "Document the solution."
+    },
+    {
+        "question": "A user notices that there is intermittent wireless connectivity on a laptop that is running a wireless PCI Express Micro card using the wireless 802.11n standard. What should the user do to fix the problem?",
+        "answer": "Move the laptop to a new location."
+    },
+    {
+        "question": "A technician connects a new LCD monitor for the first time and finds the display very pixilated. What is a possible solution to this problem?",
+        "answer": "Set the screen to native resolution."
+    },
+    {
+        "question": "A sales representative returns to the office and connects the laptop to an external display device. The display device is powered on, but the laptop image is not showing on the display device. What are two things that should be checked? (Choose two.)",
+        "answer": [
+            "The video cable is firmly connected.",
+            "The LCD backlight is properly adjusted."
+        ]
+    },
+    {
+        "question": "Which mode would be best suited for a laptop that is displaying oversized images and icons?",
+        "answer": "native"
+    },
+    {
+        "question": "A user complains that the image on a laptop looks dull and pale. What is the most likely cause of the problem?",
+        "answer": "The LCD backlight is not properly adjusted."
+    },
+    {
+        "question": "A user complains that the laptop display is flickering. Which two problems could cause this situation? (Choose two.)",
+        "answer": [
+            "The screen refresh rate is set incorrectly.",
+            "The inverter is damaged or malfunctioning."
+        ]
+    },
+    {
+        "question": "There is a shared laptop in the conference room of a company. One day an employee turns on the laptop to prepare for joining a videoconference. However, the image on the laptop display is pixilated. What should the user do first to correct the problem?",
+        "answer": "Set the display to native resolution."
+    },
+    {
+        "question": "What process takes place in a laser printer after the drum is conditioned for the new latent image?",
+        "answer": "exposing"
+    },
+    {
+        "question": "What type of printer requires the ribbon to be changed when producing faded and light characters?",
+        "answer": "impact"
+    },
+    {
+        "question": "What is an advantage of using a printer that is connected to a hardware print server compared with a computer-shared printer?",
+        "answer": "A hardware print server is always available to all users."
+    },
+    {
+        "question": "A technician wants to allow many computers to print to the same printer, but does not want to affect the performance of the computers. What will the technician do to achieve this?",
+        "answer": "Use a hardware print server."
+    },
+    {
+        "question": "A user is reporting that an inkjet printer is printing colors different from what the printer should be printing. The printer has separate cartridges for each color and the user changed the cyan cartridge recently. What is the action that could fix the problem?",
+        "answer": "Perform a printer head cleaning."
+    },
+    {
+        "question": "Which two field replaceable units could be found in a laser printer maintenance kit? (Choose two.)",
+        "answer": [
+            "fuser assembly",
+            "pickup rollers"
+        ]
+    },
+    {
+        "question": "What is best used to clean the heating element on a thermal printer?",
+        "answer": "isopropyl alcohol"
+    },
+    {
+        "question": "A user reports that a computer is unable to print on an inkjet printer. The technician has determined that there is no paper in the paper bin. What is the next step in the troubleshooting process?",
+        "answer": "Establish a plan of action."
+    },
+    {
+        "question": "A user reports that a laser printer is printing shadow images and letters. Which part should the technician replace to correct this problem?",
+        "answer": "drum"
+    },
+    {
+        "question": "A technician is called to work on a laser printer that prints vertical lines on every printed page. Which laser printer part should be checked first?",
+        "answer": "toner cartridge"
+    },
+    {
+        "question": "A technician is called to troubleshoot a problem where a user claims that none of the print jobs from this morning have printed. The technician sees that there is only one printer installed in the device list and it is a network printer shared with other users. What should the technician check?",
+        "answer": "the print queue"
+    },
+    {
+        "question": "A user reports that a “Document failed to print” message appears every time the network printer is restarted. What could be a cause of the problem?",
+        "answer": "The IP address assigned to the printer is a duplicate IP address."
+    },
+    {
+        "question": "What are two functions of hypervisors? (Choose two.)",
+        "answer": [
+            "to manage virtual machines",
+            "to allocate physical system resources to virtual machines"
+        ]
+    },
+    {
+        "question": "A computer technician is asked to configure a workstation with two virtual machines. What would be the purpose of the configuration?",
+        "answer": "to have two separate operating systems running at the same time on one computer"
+    },
+    {
+        "question": "A computer technician creates a virtual environment. Which security measure should the technician take for the virtual machine running Windows 10, if any?",
+        "answer": "Each virtual machine should have antivirus software installed."
+    },
+    {
+        "question": "Which two minimum requirements should be met for a technician to enable Hyper-V on a Windows 10 computer? (Choose two.)",
+        "answer": [
+            "4 GB RAM",
+            "64-bit operating system"
+        ]
+    },
+    {
+        "question": "A technician is setting up a new VM. How will internet connectivity be provided to the VM?",
+        "answer": "through a virtual NIC that connects through the host computer NIC"
+    },
+    {
+        "question": "Which component would be required when deploying a virtual desktop to a corporate user?",
+        "answer": "virtual NIC"
+    },
+    {
+        "question": "What would a technician require in order to install a hypervisor on a client machine?",
+        "answer": "virtualization software"
+    },
+    {
+        "question": "Which character of the Cloud model provides easy monitoring, controlling, reporting, and billing for both the provider and customers?",
+        "answer": "measured service"
+    },
+    {
+        "question": "A company uses cloud services and is setting up a new switch supplied by the cloud provider. Which cloud model is used by the company?",
+        "answer": "IaaS"
+    },
+    {
+        "question": "A company owns servers for a particular corporate application. The servers are housed in an external data center. The company has an agreement with a cloud provider to spin up additional servers for the same application during peak usage. Which cloud model is the company using?",
+        "answer": "hybrid"
+    },
+    {
+        "question": "What is meant by a cloud service being metered?",
+        "answer": "The company is charged based on the amount of service used."
+    },
+    {
+        "question": "A company has a few employees that are designers. The designers do not have the CAD application loaded on their local computer. Instead, the designers use a CAD application hosted by the application developer. Which type of virtualization is the company using?",
+        "answer": "SaaS"
+    },
+    {
+        "question": "A Windows 10 computer has several printers configured in the Control Panel Devices and Printers window. Which printer will the computer choose to be the first option for printing?",
+        "answer": "the printer that is set as the default printer"
+    },
+    {
+        "question": "What problems can be resolved by implementing QoS and traffic engineering protocols in an enterprise VoIP network?",
+        "answer": "excessive latency and jitter"
+    },
+    {
+        "question": "Which two devices commonly make use of Power over Ethernet (PoE)? (Choose two.)",
+        "answer": [
+            "IP phones",
+            "wireless access points"
+        ]
+    },
+    {
+        "question": "Which network device is used to ensure that each server, providing the same service on a network, is used as much as the others on that network?",
+        "answer": "load balancer"
+    },
+    {
+        "question": "A technician is building a gaming computer with a PCIex16 graphics card. The graphics card requires 100 watts of power to run. How will this power be supplied?",
+        "answer": "from the PCIe slot on the motherboard, together with a separate PCIe power connector from the power supply"
+    },
+    {
+        "question": "While a user is working on a spreadsheet, the computer reboots. What are two components that could cause this issue? (Choose two.)",
+        "answer": [
+            "CPU",
+            "power supply"
+        ]
+    },
+    {
+        "question": "After continuous morning use, a computer suddenly reboots without the intervention of the user. What are the two most likely hardware parts that could cause this problem? (Choose two.)",
+        "answer": [
+            "CPU",
+            "power supply"
+        ]
+    },
+    {
+        "question": "A technician has been called in to investigate a problem with the computer rebooting randomly throughout the day. What two pieces of hardware could cause this problem? (Choose two.)",
+        "answer": [
+            "CPU",
+            "power supply"
+        ]
+    },
+    {
+        "question": "For two days in a row, a user has noticed that the computer reboots several times before it eventually starts. What are two suspect components? (Choose two.)",
+        "answer": [
+            "CPU",
+            "power supply"
+        ]
+    },
+    {
+        "question": "A technician is setting up a server that requires two connections between the client and the server, one for commands and replies, the other for the actual transfer of files. What type of server will accomplish this task?",
+        "answer": "FTP server"
+    },
+    {
+        "question": "A network analyst is setting up a server that uses a store-and-forward method of sending, storing, and retrieving electronic messages across a network. What type of server is the analyst setting up?",
+        "answer": "email server"
+    },
+    {
+        "question": "A manager works remotely and needs to access classified information on the web servers within the company head office. What type of server uses the secure HTTP (HTTPS) for exchanging text, graphic images, sound, and video on the web.",
+        "answer": "web server"
+    },
+    {
+        "question": "A network administrator in a corporate headquarters office is setting up a new laptop for a new employee. What type of service will provide an IP address for the new device?",
+        "answer": "DHCP"
+    },
+    {
+        "question": "A technician is setting up an environment where popular and frequently accessed web pages are stored locally on the internal network. What type of server will accomplish this task?",
+        "answer": "proxy server"
+    },
+    {
+        "question": "A technician is setting up an environment where popular and frequently accessed web pages are stored locally on the internal network. What type of server will accomplish this task?",
+        "answer": "proxy server"
+    },
+    {
+        "question": "A user needs to connect to Cisco.com but does not know the IP address for this website. What type of server will translate the website name into an IP address?",
+        "answer": "DNS server"
+    },
+    {
+        "question": "An administrator is setting up a framework to support access control on a network device. What type of server is able to control those who are permitted to access a network and track what actions they perform while accessing the network?",
+        "answer": "authentication server"
+    },
+    {
+        "question": "A company is setting up one new laser printer on every floor. What type of server will store the print jobs in a queue and then spool them to the device when it is ready?",
+        "answer": "print server"
+    },
+    {
+        "question": "What network service controls those who are permitted to access a network, what they can do while they are there, and track what actions they perform while accessing the network?",
+        "answer": "AAA"
+    },
+    {
+        "question": "A technician is searching through a storage locker and finds an access point. What is the purpose of this device?",
+        "answer": "It uses radio waves to provide network access to wireless devices."
+    },
+    {
+        "question": "A technician is searching through a storage locker and finds a cloud-based network controller. What is the purpose of this device?",
+        "answer": "It is a device that allows a network administrator to manage many remote networking devices from a central location."
+    },
+    {
+        "question": "A technician is searching through a storage locker and finds a router. What is the purpose of this device?",
+        "answer": "It connects networks and forwards traffic to remote networks by using IP addressing information."
+    },
+    {
+        "question": "A technician is searching through a storage locker and finds a firewall. What is the purpose of this device?",
+        "answer": "It is placed between two or more networks and protects data and equipment from unauthorized access."
+    },
+    {
+        "question": "A technician is searching through a storage locker and finds an Ethernet NIC. What is the purpose of this device?",
+        "answer": "It is needed to connect a computer to a wired local-area network."
+    },
+    {
+        "question": "A technician is searching through a storage locker and finds a Cisco ASA 5505-X (UTM). What is the purpose of this device?",
+        "answer": "It is an all-in-one security appliance that includes IDS/IPS functionality as well as stateful firewall services."
+    },
+    {
+        "question": "A technician is searching through a storage locker and finds a wireless NIC. What is the purpose of this device?",
+        "answer": "It is needed to connect a computer or smart device to an 802.11 network."
+    },
+    {
+        "question": "A technician is searching through a storage locker and finds a repeater. What is the purpose of this device?",
+        "answer": "It is used to regenerate weak signals to extend the distance a signal can travel."
+    },
+    {
+        "question": "A technician is searching through a storage locker and finds a patch panel. What is the purpose of this device?",
+        "answer": "It provides a wired or wireless connection between end devices, switches, and routers and in some cases, can regenerate weak signals."
+    },
+    {
+        "question": "A technician is searching through a storage locker and finds a hub. What is the purpose of this device?",
+        "answer": "It is a legacy device that connects end devices and where traffic from one connected device floods out to every other connected device."
+    },
+    {
+        "question": "A school is installing a new shared printer but the printer is not showing up on the list of available printers. What should the technician do to resolve the issue?",
+        "answer": "Manually add the printer IP address."
+    },
+    {
+        "question": "Employees are complaining that they send print jobs to a newly installed printer but the print jobs never print. What should the technician do to resolve the issue?",
+        "answer": "The printer is connected to the wrong port. Modify the port."
+    },
+    {
+        "question": "Users have noticed that the colors on their printed documents are different from the colors that they see on their computer screens. What should the technician do to resolve the issue?",
+        "answer": "Calibrate the printer"
+    },
+    {
+        "question": "A technician has just completed a preventive maintenance on the department printer. Users are now complaining that the printer is no longer available. What should the technician do to resolve the issue?",
+        "answer": "Check that the printer is plugged into a power source"
+    },
+    {
+        "question": "A technician has just completed a preventive maintenance on the department printer. Users are now complaining that the printer is no longer available. What should the technician do to resolve the issue?",
+        "answer": "Check that the printer is plugged into a power source."
+    },
+    {
+        "question": "Students who use the same printer are complaining that recently printed documents contain unknown characters. What should the technician do to resolve the issue?",
+        "answer": "Re-install the printer driver."
+    },
+    {
+        "question": "All documents printed by the laser printer in the branch office have ghost or shadow images appearing on the paper. What should the technician do to resolve the issue?",
+        "answer": "Replace the drum."
+    },
+    {
+        "question": "An office assistant in a law firm is trying to print many large legal documents but is getting “memory overload” error messages from the printer. What should the technician do to resolve the issue?",
+        "answer": "Add more memory to the printer."
+    },
+    {
+        "question": "A reporter is trying to print several high resolution photographs but the color laser printer is going extremely slowly. What should the technician do to resolve the issue?",
+        "answer": "Add more RAM to the printer."
+    },
+    {
+        "question": "A receptionist is complaining about the following printer issue: The print queue seems to be functioning properly, but the printer does not print. What are two possible causes of this issue? (Choose two.)",
+        "answer": [
+            "There is a bad cable connection.",
+            "The printer has an error such as out of paper, out of toner, or paper jam."
+        ]
+    },
+    {
+        "question": "A photographer is complaining about the following printer issue: The printer issues a “Document failed to print” message. What are two possible causes of this issue? (Choose two.)",
+        "answer": [
+            "A cable is loose or disconnected.",
+            "The printer is no longer shared."
+        ]
+    },
+    {
+        "question": "A reporter is complaining about the following printer issue: The paper jams when the printer is printing. What are two possible causes of this issue? (Choose two.)",
+        "answer": [
+            "The printer could be dirty.",
+            "The humidity could be high and that causes the paper to stick together."
+        ]
+    },
+    {
+        "question": "A manager is complaining about the following printer issue: The printer is printing incorrect colors. What are two possible causes of this issue? (Choose two.)",
+        "answer": [
+            "The print heads might need to be cleaned and calibrated.",
+            "An incorrect cartridge could be installed."
+        ]
+    },
+    {
+        "question": "A technician is complaining about the following printer issue: The print appears faded on the paper. What are two possible causes of this issue? (Choose two.)",
+        "answer": [
+            "The toner cartridge is low",
+            "The paper might be incompatible with the printer."
+        ]
+    },
+    {
+        "question": "A librarian is complaining about the following printer issue: The printer control panel displays no image. What are two possible causes of this issue? (Choose two.)",
+        "answer": [
+            "The contrast of the screen may be set too low.",
+            "The printer is not turned on."
+        ]
+    },
+    {
+        "question": "A teacher is complaining about the following printer issue: The paper is creased after printing. What are two possible causes of this issue? (Choose two.)",
+        "answer": [
+            "The paper-feed tray might not be firmly adjusted against the edges of the printer",
+            "The paper might be loaded incorrectly."
+        ]
+    },
+    {
+        "question": "A receptionist is complaining about the following printer issue: The print queue seems to be functioning properly, but the printer does not print. What are two possible causes of this issue? (Choose two.)",
+        "answer": [
+            "There is a bad cable connection.",
+            "The printer has an error such as out of paper, out of toner, or paper jam"
+        ]
+    },
+    {
+        "question": "A photographer is complaining about the following printer issue: The paper is not being fed into the printer. What are two possible causes of this issue? (Choose two.)",
+        "answer": [
+            "The paper may be wrinkled.",
+            "The printer could be set to print to a different paper size than is currently loaded"
+        ]
+    },
+    {
+        "question": "A reporter is complaining about the following printer issue: The printer is printing unknown characters. What are two possible causes of this issue? (Choose two.)",
+        "answer": [
+            "The wrong or an outdated printer driver is installed.",
+            "The printer has a loose connection."
+        ]
+    },
+    {
+        "question": "While a technician is installing a printer, the technician hears a loud clicking noise. Which device should the technician check first?",
+        "answer": "hard drive"
+    },
+    {
+        "question": "While working in a computer training room, the technician notices that one computer emits a loud clicking noise. Which device should the technician check first?",
+        "answer": "hard drive"
+    },
+    {
+        "question": "Every time a user turns on the computer in the morning, the user hears a loud clicking noise. Which device should the technician check first?",
+        "answer": "hard drive"
+    },
+    {
+        "question": "When a co-worker steps into another office, the co-worker notices that the computer is making a loud clicking noise and asks about it. The technician is contacted to investigate. Which device should the technician check first?",
+        "answer": "hard drive"
+    },
+    {
+        "question": "When a user turns on a workstation, the screen displays an “Invalid Boot Disk” error. The user calls the help desk. Which device should the technician check first?",
+        "answer": "hard drive"
+    },
+    {
+        "question": "A user reports that a drive is no longer there. The technician asks the user to demonstrate the problem. Within the application, the user demonstrates that the drive, that was present in the save options yesterday, is now no longer an option. What should the technician do to see if the drive is recognized by the operating system?",
+        "answer": "Use Device Manager"
+    },
+    {
+        "question": "A computer has two mechanical hard drives. The second drive (D:) is used for data storage. When trying to save an email attachment to the local hard drive, the user notices that the D: drive is not an option. What should the technician do to see if the drive is recognized by the operating system?",
+        "answer": "Use File Explorer"
+    },
+    {
+        "question": "A laptop has an NVMe drive (C:) and a mechanical hard drive (D:). When the user tries to save a spreadsheet to the D: drive, the user notices that the D: drive is not there. What should the technician do to see if the drive is recognized by the operating system?",
+        "answer": "Use the Disk Management Control Panel"
+    },
+    {
+        "question": "A computer has an SSD for the operating system and applications and uses another mechanical hard drive for data storage. The user reports that data can no longer be saved to the mechanical hard drive. What should the technician do to see if the drive is recognized by the operating system?",
+        "answer": "Use Device Manager."
+    },
+    {
+        "question": "A technician is working on a laptop and an error message about decryption appears when opening an email. What is a possible solution for this situation?",
+        "answer": "Install an appropriate certificate"
+    },
+    {
+        "question": "A technician is working on a laptop and a key on the keyboard is not responding as it should. What is a possible solution for this situation?",
+        "answer": "Clean with compressed air."
+    },
+    {
+        "question": "A technician is working on a laptop and GPS is not functioning. What is a possible solution for this situation?",
+        "answer": "Verify that airplane mode is not activated"
+    }
+]
